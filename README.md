@@ -1,3 +1,7 @@
+This is poltergeist at tag v1.6.0 with https://github.com/jbaudanza/poltergeist/commit/03ecc5721dd7ec938a2d08fd55c71c0bb5c1db2c cherrypicked in.
+
+---
+
 # Poltergeist - A PhantomJS driver for Capybara #
 
 [![Build Status](https://secure.travis-ci.org/teampoltergeist/poltergeist.png)](http://travis-ci.org/teampoltergeist/poltergeist)
